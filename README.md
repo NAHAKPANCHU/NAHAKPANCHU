@@ -7,7 +7,7 @@
   <img
        src="file:///home/ctoic/Documents/Final/0_7Q3yvSIv_t0ioJ-Z.gif" width="100"/>
 <div id="badges">
-  <a href="https://linkedin.com/in/panchu-nahak-077283255">
+  <a href="https://www.linkedin.com/in/panchu-nahak-74600a276/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
