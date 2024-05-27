@@ -19,7 +19,7 @@
 - 🔭 Diving deep in the programming world
 - 🌱 I’m currently learning Native Languages
 - 👯 I’m looking to collaborate with geeks 
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I'm a cricket player ,love to watch web series ,active social worker and truth seeker ;)
 - 🥅 2023 Solve Leetcode problems 
 - 😁 Feel free to contribute in Mobx
